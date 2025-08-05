@@ -32,6 +32,9 @@ Sou consultor de sistemas com muita experiência com .Net e Angular .Tenho  foco
 [![REST](https://img.shields.io/badge/REST_API-025669?logo=api&logoColor=fff&style=flat)]
 [![SOAP](https://img.shields.io/badge/SOAP_Web_Services-00557F?style=flat)]
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)]
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]
+
+
 
 
 ## 🌐 Me acompanhe por aí
