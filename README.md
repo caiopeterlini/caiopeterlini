@@ -1,0 +1,36 @@
+# Olá, eu sou o Caio!
+
+Sou consultor de sistemas com muita experiência com .Net e Angular .Tenho  foco em  **melhorar fluxos** e **garantir entregas com excelência**. Sou uma pessoa que gosta de evoluir os sistemas, automatizar os processos e enxergar o fluxo como um todo.
+
+---
+
+## 📝 Sobre mim
+
+- 💼 Consultor de Sistemas com forte atuação em resseguro e cosseguro
+- 🔄 Experiência em integração de empresas e migração de sistemas, com foco em ambientes AWS
+- 📊 Especialista em processos contábeis e sustentação de sistemas críticos
+- 🛠️ Tecnologias: .NET Core, Entity Framework, Redis, SQL Server, Oracle, Angular, APIs REST e Web Services
+- ⚙️ Atuação em melhorias contínuas, análise de performance e automações de processos
+- 📈 Apoio estratégico às áreas de negócio com foco em soluções escaláveis e sustentáveis
+- 🧩 Vivência em projetos complexos com múltiplas integrações sistêmicas e foco em estabilidade
+- 📌 Ferramentas: Git, Jira, Postman, Swagger
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
+[![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=flat&logo=soapui&logoColor=white)](https://www.soapui.org/)
+[![.Net](https://img.shields.io/badge/-.NET%206.0-blueviolet)]
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]
+
+
+## 🌐 Me acompanhe por aí
+
+- 💼 [LinkedIn - Caio Peterlini](https://www.linkedin.com/in/caio-peterlini)
+
+---
+
